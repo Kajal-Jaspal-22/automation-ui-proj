@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-16T20:47:20 IST" name="Cross-Platform" finished-at="2025-01-16T20:47:49 IST" duration-ms="29173">
+    <groups>
+    </groups>
+    <test started-at="2025-01-16T20:47:20 IST" name="BStackDemo-1" finished-at="2025-01-16T20:47:42 IST" duration-ms="22191">
+      <class name="com.browserstack.BStackDemoTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.browserstack.BStackDemoTest@dc7b462]" started-at="2025-01-16T20:47:20 IST" name="setUp" finished-at="2025-01-16T20:47:31 IST" duration-ms="11338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addProductToCart()[pri:0, instance:com.browserstack.BStackDemoTest@dc7b462]" started-at="2025-01-16T20:47:31 IST" name="addProductToCart" finished-at="2025-01-16T20:47:39 IST" duration-ms="8300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProductToCart -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.browserstack.BStackDemoTest@dc7b462]" started-at="2025-01-16T20:47:39 IST" name="tearDown" finished-at="2025-01-16T20:47:42 IST" duration-ms="2425" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addProductToCart status=SUCCESS method=BStackDemoTest.addProductToCart()[pri:0, instance:com.browserstack.BStackDemoTest@dc7b462] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.browserstack.BStackDemoTest -->
+    </test> <!-- BStackDemo-1 -->
+    <test started-at="2025-01-16T20:47:20 IST" name="BStackDemo-3" finished-at="2025-01-16T20:47:42 IST" duration-ms="22611">
+      <class name="com.browserstack.BStackDemoTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.browserstack.BStackDemoTest@692fd26]" started-at="2025-01-16T20:47:20 IST" name="setUp" finished-at="2025-01-16T20:47:32 IST" duration-ms="12670" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addProductToCart()[pri:0, instance:com.browserstack.BStackDemoTest@692fd26]" started-at="2025-01-16T20:47:32 IST" name="addProductToCart" finished-at="2025-01-16T20:47:39 IST" duration-ms="6270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProductToCart -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.browserstack.BStackDemoTest@692fd26]" started-at="2025-01-16T20:47:39 IST" name="tearDown" finished-at="2025-01-16T20:47:42 IST" duration-ms="3534" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addProductToCart status=SUCCESS method=BStackDemoTest.addProductToCart()[pri:0, instance:com.browserstack.BStackDemoTest@692fd26] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.browserstack.BStackDemoTest -->
+    </test> <!-- BStackDemo-3 -->
+    <test started-at="2025-01-16T20:47:20 IST" name="BStackDemo-0" finished-at="2025-01-16T20:47:44 IST" duration-ms="24079">
+      <class name="com.browserstack.BStackDemoTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.browserstack.BStackDemoTest@3fdecce]" started-at="2025-01-16T20:47:20 IST" name="setUp" finished-at="2025-01-16T20:47:37 IST" duration-ms="17266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addProductToCart()[pri:0, instance:com.browserstack.BStackDemoTest@3fdecce]" started-at="2025-01-16T20:47:37 IST" name="addProductToCart" finished-at="2025-01-16T20:47:41 IST" duration-ms="4287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProductToCart -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.browserstack.BStackDemoTest@3fdecce]" started-at="2025-01-16T20:47:41 IST" name="tearDown" finished-at="2025-01-16T20:47:44 IST" duration-ms="2396" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addProductToCart status=SUCCESS method=BStackDemoTest.addProductToCart()[pri:0, instance:com.browserstack.BStackDemoTest@3fdecce] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.browserstack.BStackDemoTest -->
+    </test> <!-- BStackDemo-0 -->
+    <test started-at="2025-01-16T20:47:20 IST" name="BStackDemo-2" finished-at="2025-01-16T20:47:44 IST" duration-ms="24846">
+      <class name="com.browserstack.BStackDemoTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.browserstack.BStackDemoTest@8bffb8b]" started-at="2025-01-16T20:47:20 IST" name="setUp" finished-at="2025-01-16T20:47:36 IST" duration-ms="16450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addProductToCart()[pri:0, instance:com.browserstack.BStackDemoTest@8bffb8b]" started-at="2025-01-16T20:47:36 IST" name="addProductToCart" finished-at="2025-01-16T20:47:42 IST" duration-ms="5852" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProductToCart -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.browserstack.BStackDemoTest@8bffb8b]" started-at="2025-01-16T20:47:42 IST" name="tearDown" finished-at="2025-01-16T20:47:44 IST" duration-ms="2445" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addProductToCart status=SUCCESS method=BStackDemoTest.addProductToCart()[pri:0, instance:com.browserstack.BStackDemoTest@8bffb8b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.browserstack.BStackDemoTest -->
+    </test> <!-- BStackDemo-2 -->
+    <test started-at="2025-01-16T20:47:20 IST" name="BStackDemo-4" finished-at="2025-01-16T20:47:49 IST" duration-ms="29173">
+      <class name="com.browserstack.BStackDemoTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.browserstack.BStackDemoTest@76c548f]" started-at="2025-01-16T20:47:20 IST" name="setUp" finished-at="2025-01-16T20:47:39 IST" duration-ms="19565" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addProductToCart()[pri:0, instance:com.browserstack.BStackDemoTest@76c548f]" started-at="2025-01-16T20:47:39 IST" name="addProductToCart" finished-at="2025-01-16T20:47:46 IST" duration-ms="6738" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProductToCart -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.browserstack.BStackDemoTest@76c548f]" started-at="2025-01-16T20:47:46 IST" name="tearDown" finished-at="2025-01-16T20:47:49 IST" duration-ms="2743" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addProductToCart status=SUCCESS method=BStackDemoTest.addProductToCart()[pri:0, instance:com.browserstack.BStackDemoTest@76c548f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.browserstack.BStackDemoTest -->
+    </test> <!-- BStackDemo-4 -->
+  </suite> <!-- Cross-Platform -->
+</testng-results>

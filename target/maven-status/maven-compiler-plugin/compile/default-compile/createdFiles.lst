@@ -1,0 +1,7 @@
+org/example/utils/FileUtilsHelper.class
+org/example/pages/SpanishNewsWebsitePage.class
+org/example/config/ConfigReader.class
+org/example/utils/ApiKeyUtil.class
+org/example/utils/WordProcessor.class
+org/example/utils/TranslationService.class
+org/example/models/TranslationResponse.class
